@@ -30,5 +30,6 @@ Higher entropy = stronger password.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/password-strength-checker
+git clone https://github.com/viswakpullepu/password-strength-checker
 cd password-strength-checker
+
