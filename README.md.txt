@@ -32,4 +32,9 @@ Higher entropy = stronger password.
 ```bash
 git clone https://github.com/viswakpullepu/password-strength-checker
 cd password-strength-checker
+### 2. Run the Application
+```bash
+python main.py
+
+
 
